@@ -20,6 +20,16 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Workshop paper
+: Cristian Consonni, David Laniado and Alberto Montresor
+: [_"Discovering Topical Contexts from Links in Wikipedia"_](files/)
+: [Wiki Workshop 2019](https://wikiworkshop.org/2019/), part of [The Web Conference 2019](https://www2019.thewebconf.org/) (2019)
+: abstract <a class="collapsible inactive" id='abstract_wikiworkshop_2019' href="#"></a>
+<div class="collapsible" id='abstract_wikiworkshop_2019'>
+Surfing the links between Wikipedia articles constitutes a valuable way to acquire new knowledge related to a topic. The density of connections in Wikipedia makes that, starting from a single page, it is possible to reach virtually any other topic on the encyclopedia. This abundance highlights the need for dedicated algorithms to
+identify the topics which are more relevant to a given concept. In this context, a well-known algorithm is Personalized PageRank; its performance, however, is hindered by pages with high in-degree that function as hubs and appear with high scores regardless of the starting point. In this work, we present how a novel algorithm based on cyclic paths can be used to find the most relevant nodes in the Wikipedia link network related to a topic. We present a case study showing how the most relevant concepts associated with the topic of "Fake news" vary over time and across language editions.
+</div>
+
 * Dataset paper
 : Cristian Consonni , David Laniado, and Alberto Montresor.
 : [_"WikiLinkGraphs: A complete, longitudinal and multi-language dataset of the Wikipedia link networks"_](files/WikiLinkGraphs.pdf)
