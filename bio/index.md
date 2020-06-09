@@ -27,7 +27,7 @@ Funds Dissemination Committee.
 * Program Committee for the following conferences:
   * [ECML-PKDD 2020][ecml2020], Applied Data Science track
 
-* Reviewying - including external reviewying - for the following journals
+* Reviewing - including external reviewing - for the following journals
   and conferences:
   * [Computing][COMP] journal, Elsevier
   * ICDCS 2016, International Conference on Distributed Computing Systems
