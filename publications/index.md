@@ -20,9 +20,27 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Journal paper
+: Cristian Consonni, David Laniado and Alberto Montresor
+: ["CycleRank, or there and back again: personalized relevance scores from cyclic paths on directed graphs"](files/cyclerank.pdf)
+: Proceedings of the Royal Society A, 2020, vol. 476, no 2241, p. 20190740.
+: abstract <a class="collapsible inactive" id='abstract_cyclerank_2020' href="#"></a>
+<div class="collapsible" id='abstract_cyclerank_2020'>
+Surfing the links between Wikipedia articles constitutes a valuable way to acquire new knowledge related to a topic by exploring its connections to other pages. In this sense, Personalized PageRank is a well-known option to make sense of the graph of links between pages, and identify the most relevant articles with respect to a given one; its performance, however, is hindered by pages with high indegree that function as hubs and obtain high scores regardless of the starting point. In this work, we present CycleRank, a novel algorithm based on cyclic paths aimed at finding the most relevant nodes related to a topic. To compare the results of CycleRank with those of Personalized PageRank and other algorithms derived from it, we perform three experiments based on different ground truths. We find that CycleRank aligns better with readers’ behavior as it ranks in higher positions the articles corresponding to links that receive more clicks; it tends to identify in higher position related articles highlighted by editors in the “See also” section; and it is more robust to global hubs of the network having high indegree. Finally, we show that computing CycleRank is two orders of magnitude faster than computing the other baselines.
+</div>
+
+* Conference paper
+: Silvia Basile, Cristian Consonni, Matteo Manca, and Ludovico Boratto
+: ["Matching User Preferences and Behavior for Mobility"](files/ACM_HT2020_47.pdf)
+: In Proceedings of the 31st ACM Conference on Hypertext and Social Media (pp. 141-150). July 13-15, 2020
+: abstract <a class="collapsible inactive" id='abstract_acmht_2020' href="#"></a>
+<div class="collapsible" id='abstract_acmht_2020'>
+Understanding user mobility is central to develop better transport systems that answer users' needs. Users usually plan their travel according to their needs and preferences; however, different factors can influence their choices when traveling.  In this work, we model users' preferences, and we match their actual transport use. We use data coming from a mobility platform developed for mobile devices, whose aim is to understand the value of users' travel time. Our first goal is to characterize the perception that users have of their mobility by analyzing their general preferences expressed **before** their travel time. Our approach combines dimensionality reduction and clustering techniques to provide interpretable profiles of users. Then, we perform the same task **after** monitoring users' travels by doing a matching between users' preferences and their actual behavior. Our results show that there are substantial differences between users' perception of their mobility and their actual behavior: users overestimate their preferences for specific mobility modes, that in general, yield a lower return in terms of the worthwhileness of their trip.
+</div>
+
 * Workshop paper
 : Cristian Consonni, David Laniado and Alberto Montresor
-: [_"Discovering Topical Contexts from Links in Wikipedia"_](files/)
+: [_"Discovering Topical Contexts from Links in Wikipedia"_](files/Wiki_Workshop_2019_paper_20.pdf)
 : [Wiki Workshop 2019](https://wikiworkshop.org/2019/), part of [The Web Conference 2019](https://www2019.thewebconf.org/) (2019)
 : abstract <a class="collapsible inactive" id='abstract_wikiworkshop_2019' href="#"></a>
 <div class="collapsible" id='abstract_wikiworkshop_2019'>
