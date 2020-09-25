@@ -8,6 +8,9 @@ image:
   credit: Sella group - Dolomites, Italy - Landscape photography by Giuseppe Milo (CC-BY 2.0)
   creditlink: https://www.flickr.com/photos/photolupi/3294447879
 ---
+<script type="text/javascript"
+  src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
