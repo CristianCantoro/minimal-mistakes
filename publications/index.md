@@ -36,7 +36,7 @@ Surfing the links between Wikipedia articles constitutes a valuable way to acqui
 : Silvia Basile, Cristian Consonni, Matteo Manca, and Ludovico Boratto
 : ["Matching User Preferences and Behavior for Mobility"](files/ACM_HT2020_47.pdf)
 : In Proceedings of the 31st ACM Conference on Hypertext and Social Media (pp. 141-150). July 13-15, 2020
-: abstract <a class="collapsible inactive" id='abstract_acmht_2020' href="#"></a>
+: abstract <a class="collapsible inactive" id='abstract_acmht_2020' href="#"></a> - [presentation](files/MoTiV-HT2020.pdf)
 <div class="collapsible" id='abstract_acmht_2020'>
 Understanding user mobility is central to develop better transport systems that answer users' needs. Users usually plan their travel according to their needs and preferences; however, different factors can influence their choices when traveling.  In this work, we model users' preferences, and we match their actual transport use. We use data coming from a mobility platform developed for mobile devices, whose aim is to understand the value of users' travel time. Our first goal is to characterize the perception that users have of their mobility by analyzing their general preferences expressed **before** their travel time. Our approach combines dimensionality reduction and clustering techniques to provide interpretable profiles of users. Then, we perform the same task **after** monitoring users' travels by doing a matching between users' preferences and their actual behavior. Our results show that there are substantial differences between users' perception of their mobility and their actual behavior: users overestimate their preferences for specific mobility modes, that in general, yield a lower return in terms of the worthwhileness of their trip.
 </div>
