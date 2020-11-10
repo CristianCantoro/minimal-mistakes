@@ -5,6 +5,7 @@
 _config.dev.yml
 _site
 .sass-cache
+.jekyll-cache
 
 # PDF files of publications
 publications/files/
