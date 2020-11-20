@@ -4,9 +4,7 @@ title: Datasets: Temporal Evolution of Templates on Wikipedia
 modified: 2016-01-01T17:43:02.362000+01:00
 excerpt: "In this work we analyzed the temporal evolution of templates in the Italian and English language Wikipedia counting how the number of occurences of templates changed over time."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-288.png
 ---
 
 

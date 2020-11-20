@@ -3,9 +3,7 @@ layout: home
 excerpt: "Cristian Consonni's personal page - Advanced Research Scientist at Eurecat - Centre Tecnològic de Catalunya"
 tags: [Cristian Consonni, Eurecat, personal page]
 image:
-  feature: mountains-1.jpg
-  credit: Marmolada Sunset by Dmitry A. Mottl @ Wikimedia Commons (CC-BY-SA 3.0)
-  creditlink: https://commons.wikimedia.org/wiki/File:Marmolada_Sunset.jpg
+  feature: features/world-000.png
 ---
 
 # About me

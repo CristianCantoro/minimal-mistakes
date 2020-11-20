@@ -3,9 +3,7 @@ layout: page
 title: "Dataset: WikiLinkGraphs - A complete, longitudinal and multi-language dataset of the Wikipedia link networks"
 excerpt: "WikiLinkGraphs is a dataset of the network of internal Wikipedia links for 9 language editions: de, en, es, fr, it, nl, pl, ru, sv. This dataset spans over 17 years, from the creation of Wikipedia in 2001 to March 2018."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-144.png
 ---
 
 

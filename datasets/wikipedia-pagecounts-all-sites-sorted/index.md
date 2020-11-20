@@ -4,9 +4,7 @@ title: "Datasets: Wikipedia pagecounts-all-sites sorted by page (years 2014 –
 modified: 2018-12-09T02:10:44.777593225+01:00
 excerpt: "This dataset contains the pagecounts-all statistics for all the Wikimedia projects sorted by page 2014-2016"
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-036.png
 ---
 
 This dataset consists of hourly pagecounts for Wikipedia pages sorted by article, ordered by `(project, page, timestamp)`. It has been created by processing Wikimedia's [`pagecounts-all-sites`](https://dumps.wikimedia.org/other/pagecounts-all-sites) dataset.

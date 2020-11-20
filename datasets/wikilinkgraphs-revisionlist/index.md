@@ -3,9 +3,7 @@ layout: page
 title: "Dataset: WikiLinkGraphs' RevisionLists"
 excerpt: "This dataset contains lists of all revisions for each Wikipedia article from Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-072.png
 ---
 
   {% include_relative _wikilinkgraphs/descriptions/revisionlist.html %}

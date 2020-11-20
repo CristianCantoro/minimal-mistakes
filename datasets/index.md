@@ -4,9 +4,7 @@ title: Datasets
 modified: 2018-12-08T17:28:44,595227985+01:00
 excerpt: "Here you can find some datasets you can reuse for your research."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-252.png
 ---
 
 Here you can find some datasets you can reuse for your research.

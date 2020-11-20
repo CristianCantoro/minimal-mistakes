@@ -4,9 +4,7 @@ title: Datasets: Wikipedia pagecounts sorted by page (year 2014)
 modified: 2018-12-06T02:16:21.453254177+01:00
 excerpt: "This dataset contains the page view statistics for all the Wikimedia projects in the year 2014"
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-000.png
 ---
 
 **This dataset is superseeded by [Wikipedia pagecounts-raw sorted by page (years 2007-2016)](../wikipedia-pagecounts-raw-sorted/).**

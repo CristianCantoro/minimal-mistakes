@@ -4,9 +4,7 @@ title: Publications
 modified: 2019-03-18T08:58+01:00
 excerpt: "Publications of Cristian Consonni"
 image:
-  feature: mountains-3.jpg
-  credit: Sella group - Dolomites, Italy - Landscape photography by Giuseppe Milo (CC-BY 2.0)
-  creditlink: https://www.flickr.com/photos/photolupi/3294447879
+  feature: features/world-216.png
 ---
 <script type="text/javascript"
   src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">

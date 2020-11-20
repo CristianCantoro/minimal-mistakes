@@ -3,9 +3,7 @@ layout: page
 title: "Dataset: WikiLinkGraphs' RawWikilinks"
 excerpt: "This dataset contains wikilinks, i.e. links between Wikipedia articles, extracted by processing each revision of each Wikipedia article (namespace 0) from Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-036.png
 ---
 
   {% include_relative _wikilinkgraphs/descriptions/rawwikilinks.html %}

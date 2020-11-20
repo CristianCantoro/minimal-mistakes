@@ -3,9 +3,7 @@ layout: page
 title: "Dataset: WikiLinkGraphs' RawWikilinks Snapshots"
 excerpt: "This dataset contains wikilink snapshots, i.e. links between Wikipedia articles, extracted by processing each revision of each Wikipedia article (namespace 0) from Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv. The snapshots were taken on March 1st, for the years between 2001 and 2018 (included)."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-360.png
 ---
 
 

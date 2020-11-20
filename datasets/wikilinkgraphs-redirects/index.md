@@ -3,9 +3,7 @@ layout: page
 title: "Dataset: WikiLinkGraphs' Redirects"
 excerpt: "This dataset contains redirects in Wikipedia, i.e. alias names for Wikipedia articles, extracted by processing Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
-  feature: mountains-7.jpg
-  credit: Dolomites, Monte Paterno by Robert J. Heath @ Flickr (CC-BY 2.0)
-  creditlink: http://bit.ly/1ZbMlDJ
+  feature: features/world-216.png
 ---
 
   {% include_relative _wikilinkgraphs/descriptions/redirects.html %}
