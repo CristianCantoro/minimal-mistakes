@@ -6,16 +6,24 @@ modified: 2015-10-02
 tags: [teaching, informatica, sqrt, Newton]
 comments: true
 image:
-  feature: mountains-2.jpg
-  credit: Passo di Giau by Frisia Orientalis @ Wikimedia Commons (CC-BY-SA 3.0)
-  creditlink: https://commons.wikimedia.org/wiki/File:Passo_di_Giau.jpg
+  feature: features/world-252.png
 ---
+<script type="text/javascript"
+  src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
 
 Approfitto di una domanda che ho ricevuto rispetto al metodo della bisezione per
 elaborare meglio un dettaglio che ho omesso a lezione.
 
-
-Lo pseudocodice fornito nelle <a id="Slide da scaricare in formato PDF" href="{{ site.baseurl }}/teaching/slides/InfMat_02.pdf">slides</a>
+Lo pseudocodice fornito nelle <a id="Slide da scaricare in formato PDF" href="{{site.baseurl}}/teaching/slides/InfMat_02.pdf">slides</a>
 riporta alla linea 5 il controllo:
 
 $$\mathit{\mathbf{if}} \; ( f(c) = 0) \lor ((b - a)/2) < \varepsilon ) \; \mathit{\mathbf{then}} \dots$$
@@ -51,7 +59,6 @@ In pratica, con la funzione $$f(x) = x^3 - x -2$$ data per esercizio era possibi
 usare $$\varepsilon_y = \varepsilon_x$$, quindi controllare se:
 
 $$|f(c)| < \varepsilon_x$$
-
 
 [^1]: Questa è una semplificazione, per sapere più dettagli su come un numero con la virgola viene rappresentato consultate la pagina "<a href="https://it.wikipedia.org/wiki/Numero_in_virgola_mobile">Numero in virgola mobile</a>" su Wikipedia e <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_754r_Half_Floating_Point_Format.svg/1024px-IEEE_754r_Half_Floating_Point_Format.svg.png">questa immagine</a>.
 

@@ -6,9 +6,7 @@ modified: 2015-01-12T04:00+01:00
 tags: [template, Wikipedia, evoluzione temporale, italiano]
 comments: true
 image:
-  feature: mountains-6.jpg
-  credit: Sella group - Dolomites, Italy - Landscape photography by Giuseppe Milo (CC-BY 2.0)
-  creditlink: https://www.flickr.com/photos/giuseppemilo/20056638182/
+  feature: features/world-144.png
 ---
 
 Ospito come primo post un resoconto fatto da uno studente a cui ho fatto da correlatore per la tesi di laurea
