@@ -9,6 +9,8 @@ image:
   feature: features/world-216.png
 ---
 
+(Ripubblico qui un post dal [mio blog][0])
+
 Questo non è esattamente un articolo introduttivo all'Open Access - se vi
 serve un'introduzione è meglio che vi leggiate  [“Che cosè l'Open Access”][1]
 di Andrea. Qui volevo fare alcune considerazioni sui modelli esistenti di OA.
@@ -116,6 +118,8 @@ approccio che è stato denominato **Black OA**: gli articoli sono open perché
 tendono a [prendere le distanze][9] da questo tipo di “soluzione”, ma non è
 detto che questa attitudine non cambi con il tempo.
 
+---
+
 [^1]: Alcune riviste sono Open Access, ma permettono all'autore di usare licenze non libere come per esempio la Creative Commons Attribuzione - Non commerciale - Non opere derivate (CC BY-NC-ND).
 
 [^2]: A volte i ricercatori diffondono i propri articoli con siti come [ResearchGate](https://www.researchgate.net/), in questi casi al momento del caricamente dell'articolo appare l'avviso che l'autore si prende la responsabilità del caricamento e garantisce di avere i diritti per farlo. Una soluzione che di fatto è una foglia di fico al problema del copyright.
@@ -123,6 +127,7 @@ detto che questa attitudine non cambi con il tempo.
 [^3]: Come per esempio: [https://predatoryjournals.com/](https://predatoryjournals.com/) o [https://beallslist.net/](https://beallslist.net/).
 [^4]: Termine che ovviamente ha il suo bagaglio semantico: «Ma tutte queste azioni sono condotte nella clandestinità oscura e nascosta. Sono chiamate “furto” o “pirateria”, come se condividere conoscenza fosse l'equivalente morale di saccheggiare una nave ed assassinarne l'equipaggio, ma condividere non è immorale — è un imperativo morale. Solo chi fosse accecato dall'avidità rifiuterebbe di concedere una copia ad un amico.» [Open Access Guerrilla Manifesto][7]
 
+[0]: https://balist.es/blog/2020/11/21/due-parole-sullopen-access/
 [1]: https://aubreymcfato.com/2013/01/14/che-cose-lopen-access/
 [2]: https://en.wikipedia.org/wiki/Open_access#Colour_naming_system
 [3]: https://v2.sherpa.ac.uk/romeo/
