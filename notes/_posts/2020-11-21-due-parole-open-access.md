@@ -69,7 +69,7 @@ Una di queste soluzioni è stata l'introduzione di tariffe per la pubblicazione
 (“publishing fees”), a volte detti APC ("Article Processing Charges").
 
 Alcune riviste OA serie permettono agli autori di chiedere un abbuono di
-queste tariffe, ovvero di poter pubblicare pubblicare senza costi. In pratica,
+queste tariffe, ovvero di poter pubblicare senza costi. In pratica,
 la procedura per ottenere un waiver delle APC è analoga alla richiesta di un
 grant, per cui viene concessa solo in condizioni particolari in cui si può
 ragionevolmente dimostrare di non avere le risorse per pagare. Quindi è
@@ -81,14 +81,15 @@ motivi.
 In questo contesto, i grandi editori (Reed Elsevier, Springer, etc) hanno
 adottato due strategie:
 
-inizialmente si strenuamente opposti per anni all'idea dell'open access che a
-loro dire avrebbe causato la loro morte, la conseguente impossibilità di
+1. Inizialmente si sono strenuamente opposti per anni all'idea dell'open access
+che a loro dire avrebbe causato la loro morte, la conseguente impossibilità di
 distribuire e fare leggere articoli scientifici e in ultima istanza la morte
-della Scienza stessa. successivamente hanno pensato di saturare il mercato,
-mettendosi a pubblicare loro stessi riviste Gold OA con APC esorbitanti. In
-questo modo potevano contemporaneamente: fare i paladini dell'OA, eliminare la
-concorrenza e mantenere il mercato saldamente sotto controllo senza rinunciare
-ai profitti. In sostanza questa strategia è stata una variazione
+della Scienza stessa.
+2. Successivamente hanno pensato di saturare il mercato, mettendosi a
+pubblicare loro stessi riviste Gold OA con APC esorbitanti. In questo modo
+potevano contemporaneamente: fare i paladini dell'OA, eliminare la concorrenza
+e mantenere il mercato saldamente sotto controllo senza rinunciare ai profitti.
+In sostanza questa strategia è stata una variazione
 dell'[Embrace, extend, extinguish][4], applicata magistralmente da Microsoft
 per decenni. Se non puoi sconfiggerlo, prendi quel modello, fallo diventare
 tuo e piegalo ai tuoi scopi.
