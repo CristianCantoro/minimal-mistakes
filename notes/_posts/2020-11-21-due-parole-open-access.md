@@ -15,8 +15,8 @@ Questo non è esattamente un articolo introduttivo all'Open Access - se vi
 serve un'introduzione è meglio che vi leggiate  [“Che cosè l'Open Access”][1]
 di Andrea. Qui volevo fare alcune considerazioni sui modelli esistenti di OA.
 
-Esistono tanti “tipi” di Open Access diverso, che sono codificati con [vari colori][2],
-quelli più diffusi sono:
+Esistono tanti “tipi” diversi di Open Access, che sono codificati con
+[vari colori][2], quelli più diffusi sono:
 
 * **Gold OA**: la rivista stessa è open access, ovvero
   * pubblica gli articoli ad accesso gratuito
@@ -81,8 +81,8 @@ motivi.
 In questo contesto, i grandi editori (Reed Elsevier, Springer, etc) hanno
 adottato due strategie:
 
-1. Inizialmente si sono strenuamente opposti per anni all'idea dell'open access
-che a loro dire avrebbe causato la loro morte, la conseguente impossibilità di
+1. Per anni si sono strenuamente opposti all'idea dell'Open Access; che a
+loro dire avrebbe causato la loro morte, la conseguente impossibilità di
 distribuire e fare leggere articoli scientifici e in ultima istanza la morte
 della Scienza stessa.
 2. Successivamente hanno pensato di saturare il mercato, mettendosi a
@@ -96,8 +96,8 @@ tuo e piegalo ai tuoi scopi.
 
 Un'ulteriore critica verso il modello Gold OA è che crea un incentivo per la
 rivista ad accettare gli articoli e quindi - in prospettiva - potrebbe portare
-a un abbassamento della qualità. L'argine verso questa cosa ovviamente è
-nient'altro che la reputazione della rivista stessa.
+a un abbassamento della qualità. L'argine verso questa argomentazione
+ovviamente non è nient'altro che la reputazione della rivista stessa.
 
 D'altro canto, il meccanismo delle _"vanity publication"_ - cioè riviste che
 pubblicano qualsiasi cosa per intascarsi i fee, praticamente offrendo una
