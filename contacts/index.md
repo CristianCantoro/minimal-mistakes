@@ -27,7 +27,7 @@ Spain
 ## GPG Public Key
 
 My GPG key is `0xF4B4A1414B2F9555`, here you can find my public key<a
-class="collapsible inactive" id='mykey' href="#"></a>. You can find it also on
+class="collapsible inactive" id='mykey' href="#"></a> [[raw]](cristian_consonni_PGP_key.md). You can find it also on
 the [PGP MIT server](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xF4B4A1414B2F9555).
 <div class="collapsible" id='mykey'>
 {% highlight text %}
