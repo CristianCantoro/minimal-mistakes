@@ -13,7 +13,7 @@ I am Cristian Consonni and I am an Advanced Research Scientist at
 I am part of the [Big Data & Data Science][bigdata] unit.
 
 I have earned my Ph.D. in Computer Science in 2019 from the [University of Trento][unitn],
-in Trento with under the guidance of my advisors [Alberto Montresor][alberto]
+in Trento under the guidance of my advisors [Alberto Montresor][alberto]
 and [Yannis Velegrakis][yannis].
 
 My Ph.D. thesis was titled:
@@ -25,7 +25,7 @@ My Ph.D. program has been partially funded by [SpazioDati s.r.l.][spaziodati].
 
 ## Research Interests
 
-My research encompasses in the field of data mining and knowledge extraction,
+My research encompasses the field of data mining and knowledge extraction,
 with a particular focus on graphs.
 I am interested in graph algorithms, machine learning, and data mining
 techniques on graphs and time-evolving graphs.
