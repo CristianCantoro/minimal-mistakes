@@ -34,6 +34,8 @@ owner:
   disqus-shortname: consonni-dev
   twitter: CristianCantoro
   facebook: cristian.consonni
+  goatcounter:
+    code: consonni-dev
   google:
     analytics: 
     verify: 
