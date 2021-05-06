@@ -21,6 +21,26 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Workshop paper
+: Marc Miquel-Ribé, Cristian Consonni and David Laniado
+: ["Wikipedia Editor Drop-Off: A Framework to Characterize Editors’ Inactivity"](files/wikiworkshop2021_editor_drop-off.pdf)
+: [Wiki Workshop 2021](https://wikiworkshop.org/2021/), part of [The Web Conference 2021](https://www2021.thewebconf.org/) (2021)
+: abstract <a class="collapsible inactive" id='abstract_wikiworkshop_editor_drop-off_2021' href="#"></a>
+<div class="collapsible" id='abstract_wikiworkshop_editor_drop-off_2021'>
+While there is extensive literature both on the motivations of Wikipedia's editors and on newcomers' retention, less is known about the process by which experienced editors leave. In this paper, we present an approach to characterize Wikipedia's editor drop-off as the transitional states from activity to inactivity. Our approach is based on the data that can be collected or inferred about editors' activity within the project, namely their contributions to encyclopedic articles, discussions with other editors, and overall participation.
+Along with the characterization, we want to advance three main hypotheses, derived from the state of the art in the literature and the documentation produced by the community, to understand which interaction patterns may  anticipate editors leaving Wikipedia: 1) abrupt interactions or conflict with other editors, 2) excess in the number and spread of interactions, and 3) a lack of interactions with editors with similar characteristics.
+We present this work both as a preliminary stage of our research to understand editor drop-off and as a flexible frame to look at the phenomenon that we believe can be useful in the future. Furthermore, by characterizing drop-off and identifying interaction patterns that may be associated with it, it may be possible to assess the general health of a community, and ultimately propose changes to improve it.
+</div>
+
+* Dataset paper
+: Cristian Consonni, Silvia Basile, Matteo Manca, Ludovico Boratto, André Freitas, Tatiana Kovacikova, Ghadir Pourhashem and Yannick Cornet
+: ["What's Your Value of Travel Time? Collecting Traveler-Centered Mobility Data via Crowdsourcing"](files/motiv-dataset.pdf)
+:_[ICWSM 2021](https://icwsm.org/2021/)_. arXiv preprint [arXiv:2104.05809](https://arxiv.org/pdf/2104.05809.pdf) (2021).
+: abstract <a class="collapsible inactive" id='abstract_motiv-dataset_2021' href="#"></a>
+<div class="collapsible" id='abstract_motiv-dataset_2021'>
+Mobility and transport, by their nature, involve crowds and require the coordination of multiple stakeholders - such as policy-makers, planners, transport operators, and the travelers themselves. However, traditional approaches have been focused on time savings, proposing to users solutions that include the shortest or fastest paths. We argue that this approach towards travel time value is not centered on a traveler's perspective. To date, very few works have mined data from crowds of travelers to test the efficacy and efficiency of novel mobility paradigms. In this paper, we build upon a different paradigm of <emph>worthwhile time</emph> in which travelers can use their travel time for other activities; we present a new dataset, which contains data about travelers and their journeys, collected from a dedicated mobile application. Each trip contains multi-faceted information: from the transport mode, through its evaluation, to the positive and negative experience factors. To showcase this new dataset's potential, we also present a use case, which compares corresponding trip legs with different transport modes, studying experience factors that negatively impact users using cycling and public transport as alternatives to cars. We conclude by discussing other application domains and research opportunities enabled by the dataset.
+</div>
+
 * Journal paper
 : Cristian Consonni, David Laniado and Alberto Montresor
 : ["CycleRank, or there and back again: personalized relevance scores from cyclic paths on directed graphs"](files/cyclerank.pdf)
