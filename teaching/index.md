@@ -4,7 +4,7 @@ title: Teaching
 modified: 2015-06-13T17:43:02.362000+01:00
 excerpt: "Courses information and materials"
 image:
-  feature: features/world-288.png
+  feature: features/world-000.png
 ---
 
 Questa pagina riporta delle informazioni utili relative ai corsi in cui presto

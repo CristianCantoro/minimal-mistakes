@@ -3,7 +3,7 @@ layout: home
 excerpt: "Cristian Consonni's personal page - Advanced Research Scientist at Eurecat - Centre Tecnològic de Catalunya"
 tags: [Cristian Consonni, Eurecat, personal page]
 image:
-  feature: features/world-000.png
+  feature: features/world-288.png
 ---
 
 # About me
@@ -18,29 +18,22 @@ and [Yannis Velegrakis][yannis].
 
 My Ph.D. thesis was titled:
 ["The Dao of Wikipedia - Extracting Knowledge from the Structure of Wikilinks"][phd].
-
 My Ph.D. program has been partially funded by [SpazioDati s.r.l.][spaziodati].
 
 ---
 
 ## Research Interests
 
-My research encompasses the field of data mining and knowledge extraction,
-with a particular focus on graphs.
-I am interested in graph algorithms, machine learning, and data mining
-techniques on graphs and time-evolving graphs.
+My research encompasses the field of computational social science, data
+mining, and knowledge extraction, with a particular focus on graphs.
+I am as well interested in graph algorithms, machine learning, and
+time-evolving graphs.
 
-Graphs are fundamental structures that can encode many aspects of the data
-available today in digital form. Many applications use graphs as a data
-structure to provide services as suggesting friends on social networks or
-answer queries on knowledge bases. These applications require the ability to
-process massive graphs. Furthermore, another common feature of these graphs is
-that they evolve with time, i.e., their node and edges vary at different
-times.
+## Free and Open Culture
 
-I am a [Wikipedian][wikipedia] since 2007, and a member of [Wikimedia
-Italia][wmi] the local chapter of the [Wikimedia Foundation][wmf], where I
-have served as member of the board from 2010 to 2017.
+I am a [Wikipedian][wikipedia] since 2007, and a member of
+[Wikimedia Italia][wmi] the local chapter of the [Wikimedia Foundation][wmf],
+where I have served as member of the board from 2010 to 2017.
 
 I am an advocate for _[free software][fsf]_ and _open knowledge_.
 
