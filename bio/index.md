@@ -7,16 +7,17 @@ image:
   feature: features/world-072.png
 ---
 
-Cristian Consonni, Ph.D., is a research scientist in computational social
-science at the Big Data & Data Science unit in Eurecat, Centre Tecnològic de
-Catalunya. Cristian obtained his Ph.D. in Computer Science from the University
-of Trento with a thesis on the emerging knowledge from the structure of links
-in Wikipedia. He has been editing Wikipedia since 2007 and he has been active
-in the broader Wikimedia community since then: he has served on the board of
-Wikimedia_Italia from 2007 to 2017 in various roles; he has been a member of
-the international organizing committee of Wiki Loves Monuments 2013; and from
-June 2013 to June 2015, he has been a member of the Wikimedia Foundation's
-Funds Dissemination Committee.
+Cristian Consonni is an advanced research scientist at Eurecat, Centre
+Tecnològic de Catalunya in Barcelona. His research interests focus
+computational social science, data mining and knowledge extraction, with a
+particular focus on graphs. Cristian obtained his Ph.D. in Computer Science in
+2019 from the University of Trento with a thesis on emerging knowledge from
+the structure of links in Wikipedia, but he is a theoretical physicist by
+training. He is also a free software activist, and he has participated in the
+organization of many international projects related to free and open culture,
+among them he has been part of the international organizing committee of Wiki
+Loves Monuments 2013, the world's biggest contest of free/libre photographies
+of cultural heritage.
 
 ## Activities
 
