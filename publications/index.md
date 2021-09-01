@@ -21,6 +21,16 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Journal paper
+: Giovanni De Toni, Cristian Consonni, Alberto Montresor
+: ["A general method for estimating the prevalence of influenza-like-symptoms with Wikipedia data."](files/journal.pone.0256858.pdf)
+: PLOS ONE 16(8): e0256858. [doi:10.1371/journal.pone.0256858](https://doi.org/10.1371/journal.pone.0256858)
+: abstract <a class="collapsible inactive" id='abstract_wikiflu-plone_2021' href="#"></a>
+<div class="collapsible" id='abstract_wikiflu-plone_2021'>
+Influenza is an acute respiratory seasonal disease that affects millions of people worldwide and causes thousands of deaths in Europe alone. Estimating in a fast and reliable way the impact of an illness on a given country is essential to plan and organize effective counter-measures, which is now possible by leveraging unconventional data sources like web searches and visits. In this study, we show the feasibility of exploiting machine learning models and information about Wikipedia’s page views of a selected group of articles to obtain
+accurate estimates of influenza-like illnesses incidence in four European countries: Italy, Germany, Belgium, and the Netherlands. We propose a novel language-agnostic method, based on two algorithms, Personalized PageRank and CycleRank, to automatically select the most relevant Wikipedia pages to be monitored without the need for expert supervision. We then show how our model can reach state-of-the-art results by comparing it with previous solutions.
+</div>
+
 * Workshop paper
 : Marc Miquel-Ribé, Cristian Consonni and David Laniado
 : ["Wikipedia Editor Drop-Off: A Framework to Characterize Editors’ Inactivity"](files/wikiworkshop2021_editor_drop-off.pdf)
