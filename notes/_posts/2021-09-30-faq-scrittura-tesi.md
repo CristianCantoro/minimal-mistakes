@@ -38,7 +38,7 @@ Le citazioni vanno messe alla fine della frase cui si riferiscono, dentro la pun
 
 * __Come si preparano le tabelle?__
 
-Usate il package booktabs e seguite queste istruzioni dell'ottimo [Marco de Nadai](https://www.marcodena.it/blog/professional-paper-writing-in-latex-2016/). Solitamente quando si stanno facendo dei confronti, per esempio quando si confrontano le performance di più algoritmi, si usa il grassetto per evidenziare i risultati migliori.
+Usate il package `booktabs` e seguite queste istruzioni dell'ottimo [Marco de Nadai][1]. Solitamente quando si stanno facendo dei confronti, per esempio quando si confrontano le performance di più algoritmi, si usa il grassetto per evidenziare i risultati migliori.
 
 * __Dove si posizionano le didascalie (caption per figure e tabelle__
 
@@ -95,3 +95,5 @@ Per quanto riguarda i colori, tenete conto che a volte vi può capitare di avere
 ---
 
 [^1]: Per le presentazioni di laurea in UniTN non è possibile usare il proprio portatile.
+
+[1]: https://www.marcodena.it/blog/professional-paper-writing-in-latex-2016/
