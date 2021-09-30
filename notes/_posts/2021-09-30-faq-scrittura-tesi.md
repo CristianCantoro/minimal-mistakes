@@ -17,7 +17,7 @@ No, l'abstract non deve avere immagini, né citazioni. In generale non si dovreb
 
 * __A livello di stile in generale, come sono percepite le parole in grassetto, sottolineato, ecc.? Meglio usarle, limitarsi al minimo possibile o evitare proprio?__
 
-Nel 99.999% dei casi non vanno usati grassetto o sottolineato, un'eccezione potrebbe essere quando si presenta un teorema e enunciato che ha un none, per esemio:
+Nel 99.999% dei casi non vanno usati grassetto o sottolineato, un'eccezione potrebbe essere quando si presenta un teorema e enunciato che ha un none, per esempio:
 > __Prima legge di Laniado.__
 >
 > Prendere le scale è solitamente più veloce che usare le scale mobili, a meno che non si cammini sulle scale mobili).
@@ -78,15 +78,20 @@ Testo originale:
 
 Può diventare:
 
-> The categories were selected based on the following  thee criteria: a) number of retweets; b) number of likes; and c) ratio between number of followers and number of followed.
+> The categories were selected based on the following three criteria: a) number of retweets; b) number of likes; and c) ratio between number of followers and number of followed.
 
 * __In che formato deve essere la presentazione?__
 
 Questo vale per qualsiasi presentazione vi troverete a fare, per la tesi o in altri contesti: _portatevi dietro una versione PDF della presentazione_.
 In generale, è una buona idea anche non avere animazioni, o meglio, se avete cose che compaiono nelle slide invece di animarle dentro PowerPoint, fate delle slide separate che simulano l'animazione (che poi è come fa LaTeX Beamer). Così quando la salvate in PDF la cosa funziona comunque. È un po' assurdo che sia così, ma per esperienza è l'unico modo per essere ragionevolmente sicuri che la vostra presentazione funzioni ovunque. A volte gli organizzatori di un evento, presentazione o seminario si aspettano che tu, lo speaker, abbia una presentazione in formato PDF senza nemmeno dirtelo prima.
-Se invece avete una presentazione in cui vi è proprio necessario usare il vostro portatile - per esempio se dovete mostrare video, o se dovete magari fare una demo - vi dovete assicurare in anticipo con chi organizza la presentazione o il seminario che: 1. possiate usare il vostro portatile e ci siano i tempi per farlo 2. tutto funzioni correttamente.
+Se invece avete una presentazione in cui vi è proprio necessario usare il vostro portatile[^1]
+- per esempio se dovete mostrare video, o se dovete magari fare una demo - vi dovete assicurare in anticipo con chi organizza la presentazione o il seminario che: 1. possiate usare il vostro portatile e ci siano i tempi per farlo 2. tutto funzioni correttamente.
 
 * __Qualche consiglio riguardo i colori e i fonti  da usare nella presentazione?__
 
 Riguardo le dimensioni, dal carattere alle legende dei grafi, devono essere leggibili facilmente anche da chi non è in prima fila alla vostra presentazione.
 Per quanto riguarda i colori, tenete conto che a volte vi può capitare di avere a che fare con proiettori antidiluviani che distorcono i colori, quel rosso può diventare un giallino o un verdino. La _rule of thumb_ è che ogni informazione che desiderate evidenziare debba essere distinguibile in due modi, per esempio per evidenziale una parola in una slide mettela <span style="color:red">__in rosso e in grassetto__</span> in questo caso state cambiando il colore e il peso del carattere.
+
+---
+
+[^1]: Per le presentazioni di laurea in UniTN non è possibile usare il proprio portatile.
