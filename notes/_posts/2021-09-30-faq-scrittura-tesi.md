@@ -11,6 +11,8 @@ image:
 
 Alcune risposte a domande frequenti sulla scrittura della tesi e della presentazione che ho raccolto tutorando vari (> 10) studenti per tesi triennali e magistrali in UniTN.
 
+Inoltre, se vi sto seguendo per la tesi è molto probabile che il vostro relatore sia il prof. Montresor, per cui [leggete anche le sue indicazioni sulla scrittura della tesi][2].
+
 * __Nel sommario della tesi è possibile inserire immagini o altro?__
 
 No, l'abstract non deve avere immagini, né citazioni. In generale non si dovrebbero nemmeno usare acronimi a meno che non siano acronimi che tutti in quel campo utilizzano, se stiamo parlando di un articolo scientifico. Nel caso di una tesi triennale direi di evitare gli acronimi del tutto.
@@ -97,3 +99,4 @@ Per quanto riguarda i colori, tenete conto che a volte vi può capitare di avere
 [^1]: Per le presentazioni di laurea in UniTN non è possibile usare il proprio portatile.
 
 [1]: https://www.marcodena.it/post/professional-paper-writing-in-latex-2016/
+[2]: http://cricca.disi.unitn.it/montresor/technical-writing-some-suggestions/
