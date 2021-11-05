@@ -19,7 +19,7 @@ No, l'abstract non deve avere immagini, né citazioni. In generale non si dovreb
 
 * __A livello di stile in generale, come sono percepite le parole in grassetto, sottolineato, ecc.? Meglio usarle, limitarsi al minimo possibile o evitare proprio?__
 
-Nel 99.999% dei casi non vanno usati grassetto o sottolineato, un'eccezione potrebbe essere quando si presenta un teorema e enunciato che ha un none, per esempio:
+Nel 99,999% dei casi non vanno usati grassetto o sottolineato, un'eccezione potrebbe essere quando si presenta un teorema o un enunciato che hanno un nome, per esempio:
 > __Prima legge di Laniado.__
 >
 > Prendere le scale è solitamente più veloce che usare le scale mobili, a meno che non si cammini sulle scale mobili).
