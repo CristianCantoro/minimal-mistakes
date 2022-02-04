@@ -2,14 +2,23 @@
 layout: post
 title: Note sul metodo di Newton per il calcolo della radice quadrata.
 excerpt: "Mi è stato segnalato un errore rispetto all'esercizio per il calcolo della radice quadrata di un numero con il metodo di Newton presentato a lezione il 30/09/2015. Condivido qui le risposte"
-modified: 2015-10-01
+modified: 2022-02-04
 tags: [teaching, informatica, sqrt, Newton]
 comments: true
 image:
-  feature: mountains-2.jpg
-  credit: Passo di Giau by Frisia Orientalis @ Wikimedia Commons (CC-BY-SA 3.0)
-  creditlink: https://commons.wikimedia.org/wiki/File:Passo_di_Giau.jpg
+  feature: features/world-252.png
 ---
+<script type="text/javascript"
+  src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
 
 **Riassunto:** per errore, le <a id="Slide da scaricare in formato PDF" href="{{ site.baseurl }}/teaching/slides/InfMat_02.pdf">slides</a> relative al metodo di Newton riportavano che la serie convergeva al
 valore \\(\lim_{n \to \infty} x_{n} = \sqrt{z}\\), invece la successione
