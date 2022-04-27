@@ -21,6 +21,15 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Workshop paper
+: Miquel-Ribé, Marc, Cristian Consonni, David Laniado.
+: ["Wikipedia, Elder or Teen?"](files/WikiWorkshop2022_paper_25.pdf)
+: [Wiki Workshop 2022](https://wikiworkshop.org/2022/), part of [The Web Conference 2022](https://www2022.thewebconf.org/) (2022) ([PDF](https://wikiworkshop.org/2022/papers/WikiWorkshop2022_paper_25.pdf))
+: abstract <a class="collapsible inactive" id='abstract_wikiworkshop_2022' href="#"></a>
+<div class="collapsible" id='abstract_wikiworkshop_2022'>
+Wikipedia is an undeniably successful project, with unprecedented numbers of online volunteer contributors. However, researchers observed that the number of active editors for the largest Wikipedias started to decline in 2007, after rapid initial growth. Years after those announcements, researchers and community activists still need to understand community growth. We studied the growth, decline, and stagnation patterns of 50 Wikipedia language editions, and we found that half of them are still growing.
+</div>
+
 * Journal paper
 : Miquel-Ribé, Marc, Cristian Consonni, David Laniado.
 : ["Community Vital Signs: Measuring Wikipedia Communities’ Sustainable Growth and Renewal."](files/sustainability-14-04705.pdf)
