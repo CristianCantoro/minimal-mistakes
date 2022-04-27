@@ -43,7 +43,7 @@ accurate estimates of influenza-like illnesses incidence in four European countr
 * Workshop paper
 : Marc Miquel-Ribé, Cristian Consonni and David Laniado
 : ["Wikipedia Editor Drop-Off: A Framework to Characterize Editors’ Inactivity"](files/wikiworkshop2021_editor_drop-off.pdf)
-: [Wiki Workshop 2021](https://wikiworkshop.org/2021/), part of [The Web Conference 2021](https://www2021.thewebconf.org/) (2021)
+: [Wiki Workshop 2021](https://wikiworkshop.org/2021/), part of [The Web Conference 2021](https://www2021.thewebconf.org/) (2021) ([PDF](https://wikiworkshop.org/2021/papers/Wiki_Workshop_2021_paper_22.pdf))
 : abstract <a class="collapsible inactive" id='abstract_wikiworkshop_editor_drop-off_2021' href="#"></a>
 <div class="collapsible" id='abstract_wikiworkshop_editor_drop-off_2021'>
 While there is extensive literature both on the motivations of Wikipedia's editors and on newcomers' retention, less is known about the process by which experienced editors leave. In this paper, we present an approach to characterize Wikipedia's editor drop-off as the transitional states from activity to inactivity. Our approach is based on the data that can be collected or inferred about editors' activity within the project, namely their contributions to encyclopedic articles, discussions with other editors, and overall participation.
