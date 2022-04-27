@@ -22,6 +22,15 @@ These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
 * Journal paper
+: Miquel-Ribé, Marc, Cristian Consonni, David Laniado.
+: ["Community Vital Signs: Measuring Wikipedia Communities’ Sustainable Growth and Renewal."](files/sustainability-14-04705.pdf)
+: MDPI Sustainability 14.8 (2022): [4705](https://www.mdpi.com/2071-1050/14/8/4705). [doi:10.3390/su14084705](https://doi.org/10.3390/su14084705).
+: abstract <a class="collapsible inactive" id='abstract_vitalsigns-mdpi_2022' href="#"></a>
+<div class="collapsible" id='abstract_vitalsigns-mdpi_2022'>
+Wikipedia is an undeniably successful project, with unprecedented numbers of online volunteer contributors. After 2007, researchers started to observe that the number of active editors for the largest Wikipedias declined after rapid initial growth. Years after those announcements, researchers and community activists still need to understand how to measure community health. In this paper, we  study patterns of growth, decline and stagnation, and we propose the creation of 6 sets of language-independent indicators that we call “Vital Signs.” Three focus on the general population of active editors creating content: retention, stability, and balance; the other three are related to specific community functions: specialists, administrators, and global community participation. We borrow the analogy from the medical field, as these indicators represent a first step in defining the health status of a community; they can constitute a valuable reference point to foresee and prevent future risks. We present our analysis for 8 Wikipedia language editions, and we show that communities are renewing their productive force even with stagnating absolute numbers; we observe a general lack of renewal in positions related to special functions or administratorship. Finally, we evaluate our framework by discussing these indicators with Wikimedia affiliates to support them in promoting the necessary changes to grow the communities.
+</div>
+
+* Journal paper
 : Giovanni De Toni, Cristian Consonni, Alberto Montresor
 : ["A general method for estimating the prevalence of influenza-like-symptoms with Wikipedia data."](files/journal.pone.0256858.pdf)
 : PLOS ONE 16(8): e0256858. [doi:10.1371/journal.pone.0256858](https://doi.org/10.1371/journal.pone.0256858)
