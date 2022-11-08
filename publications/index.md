@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 modified: 2019-03-18T08:58+01:00
-excerpt: "Publications of Cristian Consonni"
+excerpt: "Publications by Cristian Consonni"
 image:
   feature: features/world-216.png
 ---
