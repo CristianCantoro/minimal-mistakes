@@ -7,9 +7,6 @@ _site
 .sass-cache
 .jekyll-cache
 
-# PDF files of publications
-publications/files/
-
 # ruby temfiles
 Gemfile.lock
 _asset_bundler_cache
@@ -24,6 +21,3 @@ node_modules
 
 # Mac tempfiles
 .DS_Store
-
-# misc
-od.pdf
