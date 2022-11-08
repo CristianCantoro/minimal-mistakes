@@ -1,0 +1,4 @@
+# ignore publication files
+*
+!.gitignore
+!.gitkeep
