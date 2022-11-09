@@ -16,6 +16,9 @@ Milano-Bicocca. His research interests cover computational social science, data 
 knowledge extraction, focusing on graphs. He is also a free software activist, and he has
 participated in the organization of many international projects related to free and open culture.
 
+These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
+See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
+
 ## Activities
 
 ### Editorial Activity
@@ -48,6 +51,10 @@ participated in the organization of many international projects related to free 
 * 2014 Researcher (contractor) at the [Digital Commons Lab][dcl],
   Head of Unit: [Maurizio Napolitano][napo]
 
+[encv]: ./files/CV_Consonni_public_en.pdf
+[itcv]: ./files/CV_Consonni_public_it.pdf
+[scholar]: https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F64Lis8rmWDuTFqARwsNXIyvMT-IuYfRp6916E-B5LdonOCcvaB-d-gbo1rG9kz3_swYOXS2uK38q8Z1G2M8lBGUwpqplf-Qv2q0H1azSyBgxT3eDE&user=3ncgdOUAAAAJ
+[researchgate]: https://www.researchgate.net/profile/Cristian_Consonni
 [ecml2020]: https://ecmlpkdd2020.net/organisation/programcommittee/
 [COMP]: https://www.springer.com/journal/607
 [azure]: https://azure.microsoft.com/

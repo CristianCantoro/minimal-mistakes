@@ -235,8 +235,8 @@ I did my Master thesis with [Leonardo Giusti][giusti] in computational physics.
 : [_“Applications of the Wilson Flow in Lattice Gauge Theory”_][msc_thesis]
 ([final presentation][msc_presentation])
 
-[encv]: ./CV_Consonni_public_en.pdf
-[itcv]: ./CV_Consonni_public_it.pdf
+[encv]: /bio/files/CV_Consonni_public_en.pdf
+[itcv]: /bio/files/CV_Consonni_public_it.pdf
 [scholar]: https://scholar.google.it/citations?hl=en&view_op=list_works&gmla=AJsN-F64Lis8rmWDuTFqARwsNXIyvMT-IuYfRp6916E-B5LdonOCcvaB-d-gbo1rG9kz3_swYOXS2uK38q8Z1G2M8lBGUwpqplf-Qv2q0H1azSyBgxT3eDE&user=3ncgdOUAAAAJ
 [researchgate]: https://www.researchgate.net/profile/Cristian_Consonni
 [giusti]: http://virgilio.mib.infn.it/~lgiusti/lgiusti.html
