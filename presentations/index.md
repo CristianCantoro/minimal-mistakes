@@ -20,7 +20,16 @@ image:
 
 I have given several presentations over the years, you can find a lot of them - especially the ones that are related to Wikipedia or free licenses - on [my contributions on Wikimedia Commons][MyContribs].
 
-I have recently discovered that SlideShare has stopped letting users download presentations and now requires a subscriptions. I am uploading my presentation here, available for everyone to download:
+I am uploading my presentations here, available for everyone to download:
+
+* **(en)** [Back to reality: giving research back to the community][s4pg_tfom]
+<br /><span style="font-family: monospace;">November 28th, 2022</span>
+<a class="collapsible inactive" id='s4pg_tfom' href="#"></a>
+<div class="collapsible" id='s4pg_tfom'>
+My presentation for the event "Open data, Wikimedia and S4PG” event, part of ["The Future of Meeting (TFOM)"][tfom]. This event is centered around "Science for Public Good" (S4PG) and it explores Wikimedia, open data, and the public good. I have been invited, together with Amanda Jurno, and Daniel Mietchen to talk about open data and Wikimedia, creating positive outcomes for the public good through dissemination of and access to scientific data and knowledge, including as open tools for education.
+([Eventbrite event](https://www.eventbrite.com/e/s4pg-x-tfom-themed-gathering-open-data-wikimedia-and-s4pg-tickets-467320677727))
+</div>
+---
 
 * **(en)** [Cloud computing and networking course: paper presentation -Data Mining for Internet of Things: A Survey][dmiot] ([original SlideShare link][dmiot_slideshare])
 <br /><span style="font-family: monospace;">July 23rd, 2015</span>
@@ -158,3 +167,5 @@ Una presentazione che ho tenuto alle Scuola Civica per Interpreti e Traduttori "
 [dmiot]: ./files/data-mining-iot.pdf
 [dmiot_slideshare]: https://www.slideshare.net/CristianCantoro/cloud-computing-and-networking-course-paper-presentation-data-mining-for-internet-of-things-a-survey
 [dmiotpaper]: https://ieeexplore.ieee.org/abstract/document/6674155
+[s4pg_tfom]: ./files/back-to-reality-giving-research-back-to-the-community.pdf
+[tfom]: https://thefutureofmeetings.wordpress.com/
