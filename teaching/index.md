@@ -12,10 +12,17 @@ servizio come esercitatore o assistente.
 
 ## Algoritmi e Stutture Dati (CdL triennale in Informatica)
 
-Ho tenuto le esercitazioni per il corso di [Algoritmi e Strutture Dati (ASD)][asd]
-in compresenza con [Alessio Guerrieri][alessio] (a.a. 2016/2017, 2017/2018),
-[Lorenzo Ghiro][lorenzo] (a.a. 2018/2019), Marta Fornasier,
-[Martin Brugnara][martin] e [Antonio Bucchiarone][antonio] (a.a. 2019/2020).
+Tengo le esercitazioni per il corso di [Algoritmi e Strutture Dati (ASD)][asd]
+del progressor Alberto Montresor dall'a.a. 2016/2017.
+
+Ho lavorato con vari colleghi nel corso degli anni:
+* [Alessio Guerrieri][alessio] (a.a. 2016/2017, 2017/2018)
+* [Lorenzo Ghiro][lorenzo] (a.a. 2018/2019)
+* [Martin Brugnara][martin] (a.a. 2019/2020)
+* Marta Fornasier, (a.a. 2019/2020, 2020/2021)
+* [Antonio Bucchiarone][antonio] (a.a. 2019/2020, 2020/2021)
+* [Francesco Lotito][francesco] (a.a. 2022/2023)
+
 
 Le informazioni relative al laboratorio ed i materiali sono disponibili sul
 sito principale del laboratorio: [_judge_][asdlab].
@@ -113,5 +120,6 @@ target="_blank">contattarmi via email</a>.
 [lorenzo]: https://ans.disi.unitn.it/~ghiro/
 [martin]: https://martinbrugnara.it/
 [antonio]: https://das.fbk.eu/people/profile/bucchiarone
+[francesco]: https://scholar.google.it/citations?user=_r_zQAwAAAAJ&hl=en
 [asdlab]: http://judge.science.unitn.it/slides/
 [zunino]: http://disi.unitn.it/~zunino/teaching/informatica/progetto2015/progetto2015.html
