@@ -21,6 +21,17 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Journal paper
+: Cristian Consonni, Martin Brugnara, Paolo Bevilacqua, Anna Tagliaferri, Marco Frego.
+: ["A new Markov–Dubins hybrid solver with learned decision trees."](files/markov-dubins.pdf)
+: Engineering Applications of Artificial Intelligence, Volume 122, 2023: [Science Direct](https://www.sciencedirect.com/science/article/pii/S0952197623003500). [doi.org/10.1016/j.engappai.2023.106166](https://doi.org/10.1016/j.engappai.2023.106166).
+: _keywords_: Markov–Dubins; Machine learning; CatBoost; Shortest path; Non-holonomic planning; Path planning
+: abstract <a class="collapsible inactive" id='abstract_markov-dubins_engappai_2023' href="#"></a>
+<div class="collapsible" id='abstract_markov-dubins_engappai_2023'>
+In this paper, the applicability of machine learning models and techniques to the Markov–Dubins path planning problem have been explored. Machine learning techniques are already applied to several fields, which range from computer vision, to physics simulation, to item recommendation, to user profiling. This pervasiveness has led to marked improvements in the implementation and support for applying machine learning models, in particular for specialised use cases such as low-power devices, embedded hardware, and real-time applications. On the other hand, the Markov–Dubins path planning problem, which is central in robotic nonholonomic trajectory design, is already covered by established numerical and optimisation techniques. However, the benefits of applying machine learning approaches to this problem remain to be investigated. In particular, there is the need to research potential speed-ups or application domains that would be better solved by a machine learning approach compared to the traditional algorithmic approaches. In this study, we train a state-of-the-art machine learning model in a supervised setting on Markov–Dubins and use it in two different ways: to directly predict the solution, and to filter candidate solutions. Also, a comparison of the quality of these predictions with a state-of-the-art Markov–Dubins solver is made. The results obtained indicate that machine learning approaches are comparable to state-of-the-art solutions: our bare model, directly predicting the solution, appears to be 8.3 times faster than the current standard, sacrificing the accuracy, which amounts to a value close to 92%; the hybrid model that filters the solutions prior to finding the best candidate runs in times that are comparable to the classical solver (58 ms) and has over 98% accuracy. A further comparison with alternative solvers and techniques, such as Optimal Control, NonLinear Programming and Mixed Integer NonLinear Programming has been made, confirming the benefits of the machine learning approach over these, for which the computational times are in the range of seconds. This opens new avenues for interdisciplinary applications of machine learning to more general planning problems (e.g., the same problem in 3D), where the number of possible manoeuvres is large and the computation of each of them requires a considerable computational effort, which makes the brute force trial-and-error infeasible. <br/>
+</div>
+
+
 * Workshop paper
 : Miquel-Ribé, Marc, Cristian Consonni, David Laniado.
 : ["Wikipedia, Elder or Teen?"](files/WikiWorkshop2022_paper_25.pdf)
