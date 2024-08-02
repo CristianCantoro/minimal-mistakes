@@ -40,3 +40,6 @@ I am an advocate for _[free software][fsf]_ and _open knowledge_.
 [jrc]: https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-ispra-italy_en
 [dsa]: https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package
 [aiact]: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+[motiv]: https://motivproject.eu/
+[ride2rail]: https://ride2rail.eu/
+
