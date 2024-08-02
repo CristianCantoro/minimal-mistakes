@@ -7,7 +7,6 @@ image:
   feature: features/world-072.png
 ---
 
-
 Cristian Consonni is an advanced research scientist at Eurecat, Centre Tecnològic de Catalunya in
 Barcelona. Cristian obtained his Ph.D. in Computer Science from the University of Trento in 2019.
 In his thesis, he studies how knowledge emerges from the structure of links in Wikipedia. Still, he
@@ -24,6 +23,7 @@ See also [my Google Scholar profile][scholar] and [ResearchGate profile][researc
 ### Editorial Activity
 
 * Program Committee for the following conferences:
+  * [CIKM 2024][CIKM2024], Demo paper track
   * [ECML-PKDD 2020][ecml2020], Applied Data Science track
 
 * Reviewing - including external reviewing - for the following journals

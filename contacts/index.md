@@ -8,20 +8,17 @@ image:
 ---
 
 You can reach me at:
-**[cristian.consonni(at)eurecat(dot)org](mailto:cristian.consonni(at)eurecat(dot)org)**
+**[cristian.consonni(at)ec(dot)europa(dot)eu](mailto:cristian.consonni(at)ec(dot)europa(dot)eu)**
 You can also find me on many social websites. You can write me either
 in Italian, English or French.
 
 ## Postal Adress
 
-This is my postal address, please note that given current Covid-19 pandemic
-situation, I may not be able to get mail from the office:
-
 {% highlight text %}
-Eurecat - Centre Tecnològic de Catalunya
-Carrer de Bilbao, 72
-08005 - Barcelona (Barcelona)
-Spain
+Joint Research Centre – European Commission
+Via Enrico Fermi, 2749
+21027 – Ispra (VA)
+Italy
 {% endhighlight %}
 
 ## GPG Public Key

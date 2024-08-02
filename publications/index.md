@@ -21,8 +21,40 @@ image:
 These are my publications (complete Curriculum Vitæ: [en][encv], [it][itcv]).
 See also [my Google Scholar profile][scholar] and [ResearchGate profile][researchgate].
 
+* Conference paper
+: Luca Cavalcanti, Cristian Consonni, Martin Brugnara, David Laniado and Alberto Montresor
+: ["Comparing Personalized Relevance Algorithms for Directed Graphs."](files/comparing_cyclerank_icde2024.pdf)
+: Proceedings of the [40th IEEE International Conference on Data Engineering (ICDE 2024)][icde2024]
+: arXiv preprint [arXiv:2405.02261](https://arxiv.org/pdf/2405.02261) (2024).
+: _keywords_: Algorithms; Directed graphs; Personalized PageRank; Cyclerank; Wikipedia link graph; Interactive dashboard
+: abstract <a class="collapsible inactive" id='abstract_icde_2024' href="#"></a>
+<div class="collapsible" id='abstract_icde_2024'>
+We present an interactive Web platform that, given a directed graph, allows identifying the most relevant nodes related to a given query node. Besides well-established algorithms such as PageRank and Personalized PageRank, the demo includes Cyclerank, a novel algorithm that addresses some of their limitations by leveraging cyclic paths to compute personalized relevance scores. Our demo design enables two use cases: (a) algorithm comparison, comparing the results obtained with different algorithms, and (b) dataset comparison, for exploring
+and gaining insights into a dataset and comparing it with others. We provide 50 pre-loaded datasets from Wikipedia, Twitter, and Amazon and seven algorithms. Users can upload new datasets, and new algorithms can be easily added. By showcasing efficient algorithms to compute relevance scores in directed graphs, our tool helps to uncover hidden relationships within the data, which makes of it a valuable addition to the repertoire of graph analysis algorithms.<br/>
+</div>
+
 * Journal paper
-: Cristian Consonni, Martin Brugnara, Paolo Bevilacqua, Anna Tagliaferri, Marco Frego.
+: Marco Frego and Cristian Consonni
+: ["Volume-Preserving Shear Transformation of an Elliptical Slant Cone to a Right Cone."](files/cone_axioms-13-00245.pdf)
+: Axioms 13.4 (2024): 245. [doi:10.3390/axioms13040245](https://doi.org/10.3390/axioms13040245)
+: _keywords_: Cone; Frustum; Volume; Conic section; Shadow ellipse
+: abstract <a class="collapsible inactive" id='abstract_cone_axioms_2024' href="#"></a>
+<div class="collapsible" id='abstract_cone_axioms_2024'>
+One nappe of a right circular cone, cut by a transverse plane, splits the cone into an infinite frustum and a cone with an elliptical section of finite volume. There is a standard way of computing this finite volume, which involves finding the parameters of the so-called shadow ellipse, the characteristics of the oblique ellipse (the cut) and, finally, the projection of the vertex of the cone onto the oblique ellipse. This paper shows that it is possible to compute that volume just by using the information of the shadow ellipse and the height of the cone. Indeed, the finite slant cone has the same volume of an elliptic right cone, with the base being the shadow ellipse of the cut portion and with the height being the distance between the vertex of the cone and the intersection of the height of the original cone with the cutting plane. This is proved by introducing a volume-preserving shear transformation of the elliptical slant cone to a right cone, so that the standard volume formula for a cone can be straightforwardly applied. This implies a simplification in the procedure for computing the volume, since the oblique ellipse—i.e., the difficult part—can be neglected because only the shadow ellipse needs to be determined.<br/>
+</div>
+
+* Journal paper
+: David Golightly, Emiliano Altobelli, Nicola Bassi, Petr Buchníček, Cristian Consonni, Petra Juránková, Lambros Mitropoulos, Giuseppe Rizzi, Matteo Rossi, Maria Scrocca, Eetu Rutanen, Annie Kortsari and Harris Niavis
+: ["Ride2Rail: integrating ridesharing to increase the attractiveness of rail travel."](files/ride2rail_etrr_2024.pdf)
+: European Transport Research Review 16.1 (2024): 3. [doi.org:10.1186/s12544-023-00627-9](https://doi.org/10.1186/s12544-023-00627-9)
+: _keywords_: Shared mobility; Mobility as a service (MaaS); Rail; Rideshare
+: abstract <a class="collapsible inactive" id='abstract_ride2rail_etrr_2024' href="#"></a>
+<div class="collapsible" id='abstract_ride2rail_etrr_2024'>
+Shared travel offers an important way to increase the accessibility of rail services. However, providing an integratedshared travel capability for rail travel is both a conceptual and technical challenge. This paper presents an overview of Ride2Rail, enabling ‘Easy use for all’ of rail through ridesharing as part of a multimodal journey. Ride2Rail has the overall objective of developing intelligent multimodal mobility, by facilitating the efficient combination of flexible and crowdsourced transport services, such as ridesharing, with scheduled transport. A requirements activity has set out the travel behaviour and system requirements for Ride2Rail. Development activities have covered the technical implementation of Ride2Rail, involving both development of the Ride2Rail functionalities and the Ride2Rail Driver Companion application, integrated within the wider Shift2Rail ecosystem. Demonstration activities have involved the preparation, implementation, execution and monitoring of Ride2Rail at four demonstration sites. This paper outlines the overall approach and findings of the Ride2Rail. This demonstrates the technical feasibility of integrating shared travel, including the architecture for a shared ride capability that can be readily integrated into pre-existing Mobility as a Service (MaaS) platform. Additionally, the paper reports positive user attitudes to this kind of shared travel, within the context of multimodal trips.<br/>
+</div>
+
+* Journal paper
+: Cristian Consonni, Martin Brugnara, Paolo Bevilacqua, Anna Tagliaferri and Marco Frego.
 : ["A new Markov–Dubins hybrid solver with learned decision trees."](files/markov-dubins.pdf)
 : Engineering Applications of Artificial Intelligence, Volume 122, 2023: [Science Direct](https://www.sciencedirect.com/science/article/pii/S0952197623003500). [doi.org/10.1016/j.engappai.2023.106166](https://doi.org/10.1016/j.engappai.2023.106166).
 : _keywords_: Markov–Dubins; Machine learning; CatBoost; Shortest path; Non-holonomic planning; Path planning
@@ -33,7 +65,7 @@ In this paper, the applicability of machine learning models and techniques to th
 
 
 * Workshop paper
-: Miquel-Ribé, Marc, Cristian Consonni, David Laniado.
+: Miquel-Ribé, Marc, Cristian Consonni and David Laniado.
 : ["Wikipedia, Elder or Teen?"](files/WikiWorkshop2022_paper_25.pdf)
 : [Wiki Workshop 2022](https://wikiworkshop.org/2022/), part of [The Web Conference 2022](https://www2022.thewebconf.org/) (2022) ([PDF](https://wikiworkshop.org/2022/papers/WikiWorkshop2022_paper_25.pdf))
 : abstract <a class="collapsible inactive" id='abstract_wikiworkshop_2022' href="#"></a>
@@ -42,7 +74,7 @@ Wikipedia is an undeniably successful project, with unprecedented numbers of onl
 </div>
 
 * Journal paper
-: Miquel-Ribé, Marc, Cristian Consonni, David Laniado.
+: Miquel-Ribé, Marc, Cristian Consonni and David Laniado.
 : ["Community Vital Signs: Measuring Wikipedia Communities’ Sustainable Growth and Renewal."](files/sustainability-14-04705.pdf)
 : MDPI Sustainability 14.8 (2022): [4705](https://www.mdpi.com/2071-1050/14/8/4705). [doi:10.3390/su14084705](https://doi.org/10.3390/su14084705).
 : abstract <a class="collapsible inactive" id='abstract_vitalsigns-mdpi_2022' href="#"></a>
@@ -51,7 +83,7 @@ Wikipedia is an undeniably successful project, with unprecedented numbers of onl
 </div>
 
 * Journal paper
-: Giovanni De Toni, Cristian Consonni, Alberto Montresor
+: Giovanni De Toni, Cristian Consonni and Alberto Montresor
 : ["A general method for estimating the prevalence of influenza-like-symptoms with Wikipedia data."](files/journal.pone.0256858.pdf)
 : PLOS ONE 16(8): e0256858. [doi:10.1371/journal.pone.0256858](https://doi.org/10.1371/journal.pone.0256858)
 : abstract <a class="collapsible inactive" id='abstract_wikiflu-plone_2021' href="#"></a>
@@ -90,7 +122,7 @@ Surfing the links between Wikipedia articles constitutes a valuable way to acqui
 </div>
 
 * Conference paper
-: Silvia Basile, Cristian Consonni, Matteo Manca, and Ludovico Boratto
+: Silvia Basile, Cristian Consonni, Matteo Manca and Ludovico Boratto
 : ["Matching User Preferences and Behavior for Mobility"](files/ACM_HT2020_47.pdf)
 : In Proceedings of the 31st ACM Conference on Hypertext and Social Media (pp. 141-150). July 13-15, 2020
 : abstract <a class="collapsible inactive" id='abstract_acmht_2020' href="#"></a> - [presentation](files/MoTiV-HT2020.pdf)
@@ -109,7 +141,7 @@ identify the topics which are more relevant to a given concept. In this context,
 </div>
 
 * Dataset paper
-: Cristian Consonni , David Laniado, and Alberto Montresor.
+: Cristian Consonni , David Laniado and Alberto Montresor.
 : [_"WikiLinkGraphs: A complete, longitudinal and multi-language dataset of the Wikipedia link networks"_](files/WikiLinkGraphs.pdf)
 : _[ICWSM 2019](https://icwsm.org/2019/)_. arXiv preprint [arXiv:1902.04298](https://arxiv.org/pdf/1902.04298.pdf) (2019). [poster](./files/ICWSM19_WikiLinkGraphs_Poster.pdf)
 : abstract <a class="collapsible inactive" id='abstract_wikilinkgraphs' href="#"></a>
@@ -120,7 +152,7 @@ Wikipedia articles contain multiple links connecting a subject to other pages of
 ---
 
 * Conference paper
-: Cristian Consonni, Paolo Sottovia, Alberto Montresor, and Yannis Velegrakis.
+: Cristian Consonni, Paolo Sottovia, Alberto Montresor and Yannis Velegrakis.
 : [_"Discoverying order dependencies through order compatibility"_](files/OD_paper_EDBT_2019.pdf)
 : [International Conference on Extending Database Technology 2019](http://edbticdt2019.inesc-id.pt/).
 : abstract <a class="collapsible inactive" id='abstract_od_edbt' href="#"></a>
@@ -132,7 +164,7 @@ Furthermore, our algorithm can be parallelized leading to further improvements w
 ---
 
 * White paper
-: Martin Brugnara, Cristian Consonni, Daniele Foroni, Sivan Pasupathipillai, Giulia Preti, Paolo Sottovia, and Yannis Velegrakis.
+: Martin Brugnara, Cristian Consonni, Daniele Foroni, Sivan Pasupathipillai, Giulia Preti, Paolo Sottovia and Yannis Velegrakis.
 : [_"Data Management and Smart Cities"_](files/data_management_smart_cities_whitepaper_dbtrento.pdf)
 : [IEEE Smart Cities Trento](https://event.unitn.it/smartcities-trento/). 2019.
 : abstract <a class="collapsible inactive" id='abstract_whitepaper_smartcities' href="#"></a>
@@ -142,10 +174,8 @@ Modern cities use information and communication technologies to obtain deep insi
 
 ---
 
-These works have been developed while I was at [Università degli studi di Milano-Bicocca](http://www.unimib.it), at [Fondazione Bruno Kessler](http://www.fbk.eu) or during projects done by [Wikimedia Italia](http://www.wikimedia.it).
-
 * Conference paper
-: Riccardo Pasi, Cristian Consonni, Maurizio Napolitano.
+: Riccardo Pasi, Cristian Consonni and Maurizio Napolitano.
 : [_“Open Community Data & Official Public Data in flood risk management: a comparison based on InaSAFE”_](files/FOSS4G-eu15_Pasi_Consonni_Napolitano.pdf)
 : FOSS4G-Europe 2015, the 2nd European Conference for for Free and Open Source Software for Geospatial, Como, July 2015
 : abstract <a class="collapsible inactive" id='abstract_osm_inasafe' href="#"></a>
@@ -170,7 +200,7 @@ We study the topological charge distribution of the SU(3) Yang-Mills theory with
 ---
 
 * Conference paper
-: Anna Antonini, Dante Bartoli, Sara Chiesa, Cristian Consonni, Rossella Di Marco, Sara Franco.
+: Anna Antonini, Dante Bartoli, Sara Chiesa, Cristian Consonni, Rossella Di Marco and Sara Franco.
 : _“Archeowiki: enhancing archaeological heritage in Lombardy (Italy) with open-source strategies”_
 : First EAGLE International Conference, Paris, October 2014.
 : [conference proceedings @ eagle-network.eu](http://www.eagle-network.eu/wp-content/uploads/2015/01/Paris-Conference-Proceedings.pdf); [conference proceedings (self-hosted)](files/EAGLE-Paris-Conference-Proceedings.pdf) [presentation on SlideShare](https://www.slideshare.net/CristianCantoro/archeowiki-when-opensource-strategies-attract-visitors-presence-in-museums-eagle-2014-conference)
@@ -202,7 +232,7 @@ We present a precise computation of the topological charge distribution in the $
 ---
 
 * Poster
-: Cristian Consonni.
+: Cristian Consonni
 : _“Nuts4Nuts: extraction of geospatial information from Wikipedia and linking to OpenStreetMap”_
 : Collective Intelligence 2014 @ Massachusetts Institute of Technology, Cambridge (MA) -- June 10-12, 2014.
 : [poster (self-hosted)](files/ci2014_Paper64_Consonni.pdf) [code on GitHub](https://github.com/SpazioDati/Nuts4Nuts)
@@ -215,7 +245,7 @@ In this context we have developed a tool, called Nuts4Nuts, which can identify t
 ---
 
 * Presentation
-: Cristian Consonni.
+: Cristian Consonni
 : _“Data coherence between OSM and Wikipedia”_
 : State of the Map 2013 @ Birmingham (UK) -- September 2013
 : [slides (self-hosted)](files/Consonni_SotM13.pdf) [slide on Slideshare](https://www.slideshare.net/CristianCantoro/data-coherence-between-openstreetmap-and-wikipedia-presentation-state-of-the-map-2013-birmingham) [video on Vimeo](https://vimeo.com/79221338)
@@ -258,3 +288,4 @@ I did my Master thesis with [Leonardo Giusti][giusti] in computational physics.
 [bsc_presentation]: ./files/BSc_thesis_presentation_Cristian_Consonni.pdf
 [msc_thesis]: ./files/MSc_thesis_Cristian_Consonni.pdf
 [msc_presentation]: ./files/MSc_thesis_presentation_Cristian_Consonni.pdf
+[icde2024]: https://icde2024.github.io/
