@@ -33,6 +33,7 @@ fi
 #################### exit statuses
 EXIT_SUCCESS=0
 EXIT_ERROR_OPTS=2
+EXIT_ERROR_RVM=1
 #################### end:exit statuses
 
 #################### help
@@ -139,7 +140,7 @@ elif [[ -s "/usr/local/rvm/scripts/rvm" ]] ; then
   set -eu
 else
   (>&2 echo "ERROR: An RVM installation was not found.")
-  exit 1
+  exit $EXIT_ERROR_RVM
 fi
 
 # Set the environment by loading from the file "environment" in the base directory

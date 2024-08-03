@@ -37,6 +37,7 @@ fi
 #################### exit statuses
 EXIT_SUCCESS=0
 EXIT_ERROR_OPTS=2
+EXIT_ERROR_RVM=1
 #################### end:exit statuses
 
 
@@ -223,7 +224,7 @@ elif [[ -s "/usr/local/rvm/scripts/rvm" ]] ; then
   set -u
 else
   (>&2 printf "ERROR: An RVM installation was not found.\\n")
-  exit -1
+  exit $EXIT_ERROR_RVM
 fi
 
 if [ -z "$dry_run" ]; then
@@ -267,7 +268,7 @@ if $push_repo; then
     verbosity_flag=''
   fi
 
-  git push "$verbosity_flag" $REPO_REMOTE $REPO_BRANCH
+  git push "$verbosity_flag" "$REPO_REMOTE" "$REPO_BRANCH"
 fi
 
 # if Ruby version was specified from the cli, override the config read from
