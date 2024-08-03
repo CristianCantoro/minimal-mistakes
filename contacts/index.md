@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Contacts
-modified: 2020-11-21
-excerpt: "Contacts of Cristian Consonni"
+modified: 2024-08-03T19:21:30+02:00
+excerpt: "Contacts for Cristian Consonni"
 image:
   feature: features/world-180.png
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Datasets: Wikipedia pagecounts-ez (2007-12-09 – 2011-11-15)"
-modified: 2018-12-08T17:19:09.357531500+01:00
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "This dataset is a compressed format of the pageview data of Wikimedia projects from 2007-12-09 to 2011-11-15. It has been created by processing Wikimedia's pagecounts-raw."
 image:
   feature: features/world-108.png

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Materiali per esercizi dei corsi
-modified: 2015-06-13T17:43:02.362000+01:00
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "Courses information and materials"
 image:
   feature: features/world-252.png

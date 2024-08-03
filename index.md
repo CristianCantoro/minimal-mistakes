@@ -1,5 +1,6 @@
 ---
 layout: home
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "Cristian Consonni's personal page - Scientific Project Officer, ECAT, European Commission"
 tags: [Cristian Consonni, ECAT, JRC, personal page]
 image:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dataset: WikiLinkGraphs' RawWikilinks"
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "This dataset contains wikilinks, i.e. links between Wikipedia articles, extracted by processing each revision of each Wikipedia article (namespace 0) from Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
   feature: features/world-036.png

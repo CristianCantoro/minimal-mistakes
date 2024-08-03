@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Bio
-modified: 2020-06-01T03:16+02:00
-excerpt: "Bio"
+modified: 2024-08-03T19:21:30+02:00
+excerpt: "Bio of Cristian Consonni"
 image:
   feature: features/world-072.png
 ---

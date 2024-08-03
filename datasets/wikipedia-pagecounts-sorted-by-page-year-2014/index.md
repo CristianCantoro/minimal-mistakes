@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datasets: Wikipedia pagecounts sorted by page (year 2014)
-modified: 2018-12-06T02:16:21.453254177+01:00
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "This dataset contains the page view statistics for all the Wikimedia projects in the year 2014"
 image:
   feature: features/world-000.png

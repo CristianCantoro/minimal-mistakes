@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dataset: WikiLinkGraphs' Redirects"
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "This dataset contains redirects in Wikipedia, i.e. alias names for Wikipedia articles, extracted by processing Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
   feature: features/world-216.png

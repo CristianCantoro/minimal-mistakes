@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dataset: WikiLinkGraphs' ResolvedRedirects"
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "This dataset contains Wikipedia snapshots with resolved redirects, i.e. list of pages (with a particular revision) of Wikipedia on March, 1st for each year from 2001 to 2018 (included), with redirects indicating which page was pointed at the moment. It has been produced by processing Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
   feature: features/world-072.png

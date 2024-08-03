@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datasets: Temporal Evolution of Templates on Wikipedia
-modified: 2016-01-01T17:43:02.362000+01:00
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "In this work we analyzed the temporal evolution of templates in the Italian and English language Wikipedia counting how the number of occurences of templates changed over time."
 image:
   feature: features/world-288.png

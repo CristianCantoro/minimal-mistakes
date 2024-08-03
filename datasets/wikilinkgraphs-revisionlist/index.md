@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dataset: WikiLinkGraphs' RevisionLists"
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "This dataset contains lists of all revisions for each Wikipedia article from Wikimedia's history dumps for the languages de, en, es, fr, it, nl, pl, ru, sv."
 image:
   feature: features/world-072.png

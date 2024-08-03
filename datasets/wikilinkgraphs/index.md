@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dataset: WikiLinkGraphs - A complete, longitudinal and multi-language dataset of the Wikipedia link networks"
+modified: 2024-08-03T19:21:30+02:00
 excerpt: "WikiLinkGraphs is a dataset of the network of internal Wikipedia links for 9 language editions: de, en, es, fr, it, nl, pl, ru, sv. This dataset spans over 17 years, from the creation of Wikipedia in 2001 to March 2018."
 image:
   feature: features/world-144.png
