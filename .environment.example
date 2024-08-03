@@ -5,6 +5,8 @@ TEST_BASEURL=''
 TEST_CONFIG='_config.dev.yml'
 
 # deploy variables
+REPO_REMOTE='origin'
+REPO_BRANCH='master'
 DEPLOY_SOURCE_DIR='_site'
 DEPLOY_ACCOUNT='myuser'
 DEPLOY_SERVER='myserver'
