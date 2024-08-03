@@ -1,0 +1,11 @@
+# test variables
+TEST_HOSTNAME='localhost'
+TEST_PORT=5000
+TEST_BASEURL=''
+TEST_CONFIG='_config.dev.yml'
+
+# deploy variables
+DEPLOY_SOURCE_DIR='_site'
+DEPLOY_ACCOUNT='myuser'
+DEPLOY_SERVER='myserver'
+DEPLOY_DEST_DIR='/path/to/destdir'
