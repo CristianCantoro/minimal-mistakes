@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Teaching
+title: Laboratorio del corso di informatica, CdL in Matematica (a.a. 2015/2016)
 modified: 2024-08-03T19:21:30+02:00
 excerpt: "Laboratorio del corso di informatica, CdL in Matematica, UniTN, a.a. 2015/2016"
 image:
   feature: features/world-000.png
 ---
-
-## Informatica (CdL triennale in Matematica)
 
 Slides relative alle lezioni di laboratorio per il corso di informatica del
 CdL triennale in matematica.

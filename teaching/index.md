@@ -20,11 +20,16 @@ Ho lavorato con vari colleghi nel corso degli anni: [Alessio Guerrieri]
 (a.a. 2018/2019), [Martin Brugnara][martin] (a.a. 2019/2020), Marta
 Fornasier, (a.a. 2019/2020, 2020/2021), [Antonio Bucchiarone][antonio]
 (a.a. 2019/2020, 2020/2021), [Francesco Lotito][francesco] (a.a. 2022/2023,
-2023/2024) e [Gabriele Masina][gabriele] (a.a. 2023/2024)
+2023/2024) e [Gabriele Masina][gabriele] (a.a. 2023/2024).
 
 
 Le informazioni relative al laboratorio ed i materiali sono disponibili sul
 sito principale del laboratorio: [_judge_][asdlab].
+
+## Archivio
+
+Materiali di corsi tenuti in passato:
+* [Algoritmi e Stutture Dati (CdL triennale in Informatica)](labinfo-mat_2015-2016/)
 
 ---
 
