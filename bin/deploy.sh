@@ -342,10 +342,19 @@ fi
 
 # https://github.com/koalaman/shellcheck/wiki/SC2086
 # shellcheck disable=SC2086
-rsync -rz --no-perms ${verbosity_flag:-} ${dry_run:-} ${size_only:-} \
-        ${tunnel_option:-} ${tunnel_arg:-} \
-        --delete \
-        --exclude-from="${repo_basedir}/.deployignore" \
+rsync --recursive --compress --no-perms \
+      ${verbosity_flag:-} ${dry_run:-} ${size_only:-} \
+      ${tunnel_option:-} ${tunnel_arg:-} \
+      --delete \
+      --exclude-from="${repo_basedir}/.deployignore" \
+        "${repo_basedir}/${DEPLOY_SOURCE_DIR}/" \
+        "${DEPLOY_ACCOUNT}@${DEPLOY_SERVER}:${DEPLOY_DEST_DIR}/"
+
+  rsync --recursive --compress \
+      ${verbosity_flag:-} ${dry_run:-} ${size_only:-} \
+      ${tunnel_option:-} ${tunnel_arg:-} \
+      --include-from=".deployupdate" \
+      --exclude='*' \
         "${repo_basedir}/${DEPLOY_SOURCE_DIR}/" \
         "${DEPLOY_ACCOUNT}@${DEPLOY_SERVER}:${DEPLOY_DEST_DIR}/"
 set +x
