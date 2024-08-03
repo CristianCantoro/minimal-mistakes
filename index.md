@@ -10,20 +10,17 @@ image:
 
 I am a scientific project officier at the [European Center for Algorithmic Transparency (ECAT)][ecat], part of the [Joint Research Centre (JRC)][jrc] in Ispra (VA), Italy.
 
-In my role, I contribute scientific and technical expertise in support of policie in the context of online platforms [Digital Services Act (DSA)][dsa] and on artificial intelligence [AI-Act][aiact].
+In my role, I contribute scientific and technical expertise in support of policies in the context of online platforms [Digital Services Act (DSA)][dsa] and on artificial intelligence [AI-Act][aiact].
 
-Previously I have worked as Advanced Research Scientist at [Eurecat - Centre Tecnològic de Catalunya][eurecat] in Barcelona, as part of the [Big Data & Data Science][bigdata] unit. While I was there I have served as Principal Investigator for the [MoTiV][motiv] project and as Work Package leader for the [Ride2Rail][ride2rail] project. 
+Previously I worked as Advanced Research Scientist at [Eurecat - Centre Tecnològic de Catalunya][eurecat] in Barcelona, as part of the [Big Data & Data Science][bigdata] unit. While I was there I have served as Principal Investigator for the [MoTiV][motiv] project and as Work Package leader for the [Ride2Rail][ride2rail] project. 
 
-I have earned my Ph.D. in Computer Science in 2019 from the [University of Trento][unitn],
-in Trento under the guidance of my advisors [Alberto Montresor][alberto] and [Yannis Velegrakis][yannis]. My Ph.D. thesis was titled:
-["The Dao of Wikipedia - Extracting Knowledge from the Structure of Wikilinks"][phd].
-My Ph.D. program has been partially funded by [SpazioDati s.r.l.][spaziodati].
+I have earned my Ph.D. in Computer Science in 2019 from the [University of Trento][unitn] (Trento, Italy) under the guidance of my advisors [Alberto Montresor][alberto] and [Yannis Velegrakis][yannis]. My Ph.D. thesis was titled: ["The Dao of Wikipedia - Extracting Knowledge from the Structure of Wikilinks"][phd]. My Ph.D. program has been partially funded by [SpazioDati s.r.l.][spaziodati].
 
 My research encompasses the fields of computational social science, data mining, and knowledge extraction, with a particular focus on graphs. I am as well interested in graph algorithms, machine learning, and time-evolving graphs.
 
 I am a [Wikipedian][wikipedia] since 2007, and a member of [Wikimedia Italia][wmi] the local chapter of the [Wikimedia Foundation][wmf], where I have served as member of the board from 2010 to 2017.
 
-I am an advocate for _[free software][fsf]_ and _open knowledge_.
+I am an advocate for [free software][fsf] and open knowledge.
 
 [eurecat]: https://www.eurecat.org/
 [bigdata]: https://eurecat.org/en/field-of-knowledge/big-data-data-science/
