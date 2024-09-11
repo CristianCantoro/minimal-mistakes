@@ -29,7 +29,7 @@ sito principale del laboratorio: [_judge_][asdlab].
 ## Archivio
 
 Materiali di corsi tenuti in passato:
-* [Algoritmi e Stutture Dati (CdL triennale in Informatica)](labinfo-mat_2015-2016/)
+* [Laboratorio di Informatica (CdL triennale in Informatica)](labinfo-mat_2015-2016/), prof. [Roberto Zunino][zunino], a.a. 2015/2016.
 
 ---
 
@@ -46,4 +46,4 @@ target="_blank">contattarmi via email</a>.
 [gabriele]: https://github.com/masinag
 [lorenzo]: https://ans.disi.unitn.it/~ghiro/
 [martin]: https://martinbrugnara.it/
-[zunino]: http://disi.unitn.it/~zunino/teaching/informatica/progetto2015/progetto2015.html
+[zunino]: https://disi.unitn.it/~zunino/
